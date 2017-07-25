@@ -15,6 +15,8 @@ The SR430 is useful in a variety of applications where it is necessary to count 
 
 LabVIEW code has been developed to interface with the SR430 and provide a general user interface to collect data (single or timed acquisition), save graphs/raw values and change collection settings on the device itself. This readme document will provide the user with information regarding architecture considerations, download processes of the LabVIEW code (or .exe/installer files), operating the GUI, as well as setting up the hardware itself.
 
+More information about the SR430 can be found here: [SR430](http://www.thinksrs.com/products/SR430.htm)
+
 ## LabVIEW Architecture ##
 
 
@@ -26,3 +28,5 @@ LabVIEW code has been developed to interface with the SR430 and provide a genera
 ## Hardware Setup ##
 
 ## Quickstart with Function Generator ##
+
+## Appendix ##
