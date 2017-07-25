@@ -23,6 +23,15 @@ More information about the SR430 can be found here: [SR430](http://www.thinksrs.
 
 ## Download Code ##
 
+Navigate to the main SR430 github repository. Then click **Clone or Download** >> **Download ZIP**.
+<img width="1007" alt="cap1" src="https://user-images.githubusercontent.com/23239868/28598319-ccbe37ae-7170-11e7-85e2-c55147a68a64.png">
+
+Extract the contents of the folder to a desired location
+
+Navigate to the LabVIEW project file: **SR430-master** >> **project** >> **SR430.lvproj**
+
+
+
 ## LabVIEW GUI ##
 
 ## Hardware Setup ##
