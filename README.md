@@ -60,6 +60,8 @@ Extract the contents of the folder to a desired location
 
 (2) Open the **SR430Class.lvclass** class folder >> **Main.vi** (this is the main GUI VI).
 
+![6](https://user-images.githubusercontent.com/23239868/28633156-e07c6fbe-7200-11e7-9aa1-fb42b3137142.JPG)
+
 ### Open .exe file ###
 If you want to open the executable file rather than running the raw LabVIEW code then:
 
