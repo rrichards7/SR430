@@ -123,6 +123,8 @@ In order to acquire multiple sets of data with a *delay* between each acquisitio
 
 (4) input the amount of times the SR430 should acquire data by changing the **Acquisition Iteration** control
 
+(5) click the **Accept/Start** button to accept the timing configuration and start the process
+
 **Note:** When the timed acqusition ends, a messge will be dispalyed on the main feed. The user now may want to export all data to Excel.
 
 ### Exporting Information/Graphs ###
