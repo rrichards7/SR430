@@ -67,6 +67,8 @@ If you want to open the executable file rather than running the raw LabVIEW code
 
 (1) **SR430-master** >> **builds** >> **SR430.exe**
 
+![7](https://user-images.githubusercontent.com/23239868/28633240-20a34e28-7201-11e7-90f5-bf8508477c37.JPG)
+
 ## Hardware Setup ##
 
 The hardware setup process is simple: 
