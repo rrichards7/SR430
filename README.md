@@ -46,7 +46,7 @@ Therefore the consumer loop executes code to complete the action associated with
 
 Then an object-oriented data flow structure is create whereby a new data class is made which houses all feedback information (e.g. graph data, VISA resources, refnums, etc). Therefore, every time a subVI executes, it pulls information from the object and delivers updated information to the object for any subsequent case.
 
-## Download Code ##
+## Download and Open Code/Executables ##
 
 Navigate to the main SR430 github repository. Then click **Clone or Download** >> **Download ZIP**.
 <img width="1007" alt="cap1" src="https://user-images.githubusercontent.com/23239868/28598319-ccbe37ae-7170-11e7-85e2-c55147a68a64.png">
@@ -63,7 +63,7 @@ The hardware setup process is simple:
 
 (2) ensure that the SR430 is connected to a power supply
 
-(3) connect any neccessary instruments
+(3) connect any neccessary instruments to the **Front Panel BNC Connectors**
 
 ![4](https://user-images.githubusercontent.com/23239868/28629115-79095466-71f4-11e7-8768-c5eef645e5f5.JPG)
 
