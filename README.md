@@ -46,7 +46,7 @@ Therefore the consumer loop executes code to complete the action associated with
 
 Then an object-oriented data flow structure is create whereby a new data class is made which houses all feedback information (e.g. graph data, VISA resources, refnums, etc). Therefore, every time a subVI executes, it pulls information from the object and delivers updated information to the object for any subsequent case.
 
-## Download and Open Code/Executables ##
+## Download and Open Raw Code or Executable ##
 
 Navigate to the main SR430 github repository. Then click **Clone or Download** >> **Download ZIP**.
 
