@@ -49,11 +49,21 @@ Then an object-oriented data flow structure is create whereby a new data class i
 ## Download and Open Code/Executables ##
 
 Navigate to the main SR430 github repository. Then click **Clone or Download** >> **Download ZIP**.
+
 <img width="1007" alt="cap1" src="https://user-images.githubusercontent.com/23239868/28598319-ccbe37ae-7170-11e7-85e2-c55147a68a64.png">
 
 Extract the contents of the folder to a desired location
 
-Navigate to the LabVIEW project file: **SR430-master** >> **project** >> **SR430.lvproj**
+### Open Raw LabVIEW Code ###
+
+(1) Navigate to the LabVIEW project file: **SR430-master** >> **project** >> **SR430.lvproj**
+
+(2) Open the **SR430Class.lvclass** class folder >> **Main.vi** (this is the main GUI VI).
+
+### Open .exe file ###
+If you want to open the executable file rather than running the raw LabVIEW code then:
+
+(1) **SR430-master** >> **builds** >> **SR430.exe**
 
 ## Hardware Setup ##
 
