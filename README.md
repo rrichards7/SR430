@@ -170,7 +170,7 @@ save and recall data to disk, etc.
 
 ## Appendix ##
 
-LabVIEW Drivers: 
+LabVIEW Drivers: https://wiki.gsi.de/foswiki/bin/view/NIUser/LabVIEWInstrumentDriver#SR430
 
 [1] http://www.thinksrs.com/products/SR430.htm
 
