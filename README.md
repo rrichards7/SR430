@@ -39,11 +39,15 @@ Once the message is enqueued, the message is sent to the consumer loop, where it
 ![sr430class_lvclass_maind30](https://user-images.githubusercontent.com/23239868/28603032-a7f3c398-718f-11e7-8acd-42eaba1db3ba.png)
 
 
-Therefore the consumer loop executes code to complete the action associated with the message. So in this case, if the user wants to open a path:
-(1) the "Open Path" button is pressed
+Therefore the consumer loop executes code to complete the action associated with the message. So in this case, if the user wants execute a single data acquistion:
+
+(1) the "Start Single Acq" button is pressed
+
 (2) the button-press action is registered by the event structure
-(3) the "Open Path" message is enqueued and sent to the consumer loop
-(4) the dialog to open a path, etc is executed
+
+(3) the "Start Single Acq" message is enqueued and sent to the consumer loop
+
+(4) the single data acquisition process is executed
 
 Then an object-oriented data flow structure is create whereby a new data class is made which houses all feedback information (e.g. graph data, VISA resources, refnums, etc). Therefore, every time a subVI executes, it pulls information from the object and delivers updated information to the object for any subsequent case.
 
